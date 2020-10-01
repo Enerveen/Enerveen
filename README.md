@@ -1,6 +1,7 @@
 # Hi there 👋
 
-My name is Uladzimir Yahorau and here you can see some of my projects
+I identify myself as Javascript Developer
+Here you can see some of my projects
 
 ## Contact Me
 * [Telegram](https://t.me/WorstLosing)
